@@ -1,0 +1,6 @@
+Minimum fot the checklist
+ID:
+Tester action:
+Actual result:
+also if needed we can add Comment line
+
