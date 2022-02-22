@@ -1,0 +1,12 @@
+
+Hi folks!
+Here is some type of typical structure of Bug_reports
+
+*Bug ID
+*Bug summary
+*Bug Details
+*Bug Priority
+*Bug Description
+*Some attachments to the Bug Report
+
+
